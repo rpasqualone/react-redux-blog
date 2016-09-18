@@ -1,0 +1,9 @@
+de_modules
+.npm
+.idea
+.tmp
+*#
+*~
+.DS_Store
+build
+
